@@ -252,6 +252,13 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1847279784,
+      "source_url": "https://tw.news.yahoo.com/%E5%90%AB%E9%87%91%E6%B9%AF%E5%8C%99%E5%8D%BB%E6%88%90%E5%B1%B1%E5%AF%A8%E7%8E%8B-%E5%BE%B73%E5%85%84%E5%BC%9F%E9%9D%A0-%E4%BE%86%E5%9B%9E%E6%8A%84%E8%A5%B2-ebay%E7%AD%89%E5%85%AC%E5%8F%B8-%E6%88%90%E8%B6%85%E7%B4%9A%E5%AF%8C%E8%B1%AA-074439682.html",
+      "platform": "other",
+      "status": "skipped",
+      "reason": "no_video"
     }
   ]
 }

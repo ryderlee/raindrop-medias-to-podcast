@@ -259,6 +259,17 @@
       "platform": "other",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1847940587,
+      "source_url": "https://www.threads.com/share/_my0z2nDq/",
+      "platform": "threads",
+      "status": "published",
+      "title": "tokens.fm 偷啃 (@tokens.fm) on Threads",
+      "description": "最近 AI 業界有一個職位突然變得非常熱門：FDE（Forward Deployed Engineer）。\n\nOpenAI、Anthropic、Google 等公司都在招募相關人才，但 FDE 到底在做什麼？\n\n它算 SWE 嗎？還是比較像 consultant？\n面試會考 LeetCode 嗎？\n薪水跟一般 SWE 又有什麼差別？\n\n最近 Blind 上剛好出現不少 Google FDE 的第一手分享，加上 Google 自己公開的職缺資訊，大概可以拼出這個職位目前的樣貌。\n\ntokens.fm 偷啃 on threads\n\nhttps://www.threads.com/share/_my0z2nDq/",
+      "published_at": "2026-09-21T22:29:20.980520+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1847940587.mp4",
+      "bytes": 188898
     }
   ]
 }

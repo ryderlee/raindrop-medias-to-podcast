@@ -170,6 +170,34 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1848435882,
+      "source_url": "https://lnkd.in/p/g9pqWgKr",
+      "platform": "other",
+      "status": "skipped",
+      "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1847786448,
+      "source_url": "https://www.linkedin.com/pulse/chinas-rich-flooding-back-singapore-something-more-interesting-tan-xqepe?utm_source=share&utm_medium=member_ios&utm_campaign=share_via",
+      "platform": "other",
+      "status": "skipped",
+      "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1847642621,
+      "source_url": "https://www.kocpc.com.tw/archives/668028",
+      "platform": "other",
+      "status": "skipped",
+      "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1846787061,
+      "source_url": "https://lnkd.in/p/gsncnJkW",
+      "platform": "other",
+      "status": "skipped",
+      "reason": "extractor_error"
     }
   ]
 }

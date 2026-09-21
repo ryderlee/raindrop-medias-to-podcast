@@ -70,6 +70,20 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1853161530,
+      "source_url": "https://m.facebook.com/story.php?story_fbid=pfbid02rFu4a74CRUS9rdczxK4LVfPtg2d1bTRMuSfbjRHxzPLGTXFttn7Xkm59a4gfCtDWl&id=703184271&mibextid=wwXIfr",
+      "platform": "facebook",
+      "status": "skipped",
+      "reason": "extractor_error"
+    },
+    {
+      "raindrop_id": 1851165233,
+      "source_url": "https://lnkd.in/p/g3PK-tMN",
+      "platform": "other",
+      "status": "skipped",
+      "reason": "extractor_error"
     }
   ]
 }

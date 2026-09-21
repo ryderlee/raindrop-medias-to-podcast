@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Raindrop Medias to Podcast</title>
+<style>
+  :root { --bg:#fbfaf8; --fg:#1d1c1a; --muted:#6b6862; --line:#e3e0da; --accent:#8a5a2b; }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+    --bg:#161513; --fg:#eceae6; --muted:#a09c94; --line:#2e2c29; --accent:#d69a5c; } }
+  :root[data-theme="dark"] { --bg:#161513; --fg:#eceae6; --muted:#a09c94; --line:#2e2c29; --accent:#d69a5c; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg); font:16px/1.65 ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif; }
+  main { max-width:44rem; margin:0 auto; padding:4rem 16px 6rem; }
+  h1 { font-size:1.7rem; line-height:1.25; margin:0 0 .4rem; letter-spacing:-.01em; }
+  p.lede { color:var(--muted); margin:0 0 2.5rem; }
+  a { color:var(--accent); }
+  .feed { border:1px solid var(--line); border-radius:10px; padding:1.1rem 1.2rem; margin:0 0 2.5rem; }
+  .feed label { display:block; font-size:.78rem; text-transform:uppercase; letter-spacing:.07em; color:var(--muted); margin-bottom:.5rem; }
+  code { font-family:ui-monospace,SFMono-Regular,Menlo,monospace; font-size:.9rem; word-break:break-all; }
+  table { width:100%; border-collapse:collapse; margin:0 0 2.5rem; font-size:.94rem; }
+  th,td { text-align:left; padding:.55rem .6rem; border-bottom:1px solid var(--line); vertical-align:top; }
+  th { font-weight:600; color:var(--muted); font-weight:500; }
+  td code { font-size:.85rem; }
+  .note { border-left:3px solid var(--accent); padding:.1rem 0 .1rem 1rem; color:var(--muted); font-size:.94rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Raindrop Medias to Podcast</h1>
+  <p class="lede">Videos saved in Raindrop, published as a podcast feed.</p>
+
+  <div class="feed">
+    <label>Feed URL — paste into a podcast client</label>
+    <code>https://ryderlee.github.io/raindrop-medias-to-podcast/feed.xml</code>
+  </div>
+
+  <table>
+    <tr><th>What</th><th>Where</th></tr>
+    <tr><td>The feed</td><td><a href="feed.xml"><code>feed.xml</code></a></td></tr>
+    <tr><td>Every candidate, published and skipped, with reasons</td><td><a href="manifest.json"><code>manifest.json</code></a></td></tr>
+    <tr><td>The media files</td><td><a href="../../raindrop-medias-to-podcast/releases">release assets</a></td></tr>
+  </table>
+
+  <p class="note">This repository is public. Anyone with these URLs can fetch the feed,
+  the manifest and the media — podcast clients cannot authenticate, and GitHub Pages
+  cannot serve a private repository. Nothing here is access-controlled.</p>
+</main>
+</body>
+</html>

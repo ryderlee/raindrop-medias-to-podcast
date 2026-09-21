@@ -119,6 +119,17 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1851029759,
+      "source_url": "https://www.threads.com/share/BBhRN3_NUn/",
+      "platform": "threads",
+      "status": "published",
+      "title": "Human Upgrade (@dr.humanupgrade) on Threads",
+      "description": "Andrew Huberman was just asked by Steve Barlett:\n\n“If you could only take 5 supplements for the rest of your life, what would they be?”.\n\nHere’s what he picked:\n \n1. Magnesium\n\nDr Biohacker on threads\n\nhttps://www.threads.com/share/BBhRN3_NUn/",
+      "published_at": "2026-09-21T08:47:47.205848+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1851029759.mp4",
+      "bytes": 663720
     }
   ]
 }

@@ -216,6 +216,17 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1849848998,
+      "source_url": "https://www.threads.com/share/_yQBx6JNa/",
+      "platform": "threads",
+      "status": "published",
+      "title": "Yiwei Ho (@1weiho) on Threads",
+      "description": "剛剛用 Claude 整理完這次 Apple 秋季發表會的資料\n再丟給 open-slide + apple-design skill 生了一份簡報 🎞️\n\n這次產出的結果，最讓我驚艷的是圖片的排版！\n不管是一張大圖、多張圖片\n還是直接拿圖片當背景\n它都能自己找到很舒服的位置放進版面裡\n尤其圖片很多的頁面\n原本以為會很容易亂掉\n但實際出來的佈局比我預期好很多 🤯\n\nYiwei Ho on threads\n\nhttps://www.threads.com/share/_yQBx6JNa/",
+      "published_at": "2026-09-21T22:28:33.900486+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1849848998.mp4",
+      "bytes": 2905756
     }
   ]
 }

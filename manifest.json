@@ -25,6 +25,16 @@
       "platform": "facebook",
       "status": "skipped",
       "reason": "login_required"
+    },
+    {
+      "raindrop_id": 1854391748,
+      "source_url": "https://www.threads.com/share/BAOgWZ4Ice/",
+      "platform": "threads",
+      "status": "published",
+      "title": "Hridoy Reh (@hridoyreh) on Threads",
+      "published_at": "2026-09-21T02:58:40.454265+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1854391748.mp4",
+      "bytes": 2051265
     }
   ]
 }

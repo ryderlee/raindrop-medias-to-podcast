@@ -198,6 +198,17 @@
       "platform": "other",
       "status": "skipped",
       "reason": "extractor_error"
+    },
+    {
+      "raindrop_id": 1850906753,
+      "source_url": "https://www.threads.com/share/BAZ4DUp05a/",
+      "platform": "threads",
+      "status": "published",
+      "title": "HIFI81 (@eddiezz81) on Threads",
+      "description": "The hinge is the interface\r\n关于iPhone Duo的讨论几乎都在说：它的UI太漂亮了。Dock移到侧边，Dynamic Island变成纵向，App随屏幕展开、翻转、半折叠重新排列。\r\n的确惊艳。但如果只用这些词来描述，我觉得可惜。这些界面可能只是结果，背后究竟是什么在支撑它们？\r\n已有折叠屏产品的逻辑很清楚：想要更大的屏幕，但设备变大又不方便携带，于是折起来。推导很合理：Bigger Screen→Portability Problem→Foldable Display。\r\n软件也沿着这条路发展：屏幕大了，就增加多任务；画布宽了，就加入分栏，让两个App同时出现，显示更多信息。\r\n它们处理的是：屏幕变大之后，软件怎么办？这就是screen-centric design，屏幕始终是设计的中心。\r\n但iPhone Duo有一个容易被忽视的东西：铰链，hinge。\r\n没有它，手机不能折。我们很容易把它看成工程问题：怎样更薄、减少折痕，控制好阻尼，又能承受反复弯折？\r\n看完软件，我开始觉得，Apple对铰链的理解可能不只停在工程层面。\n\nHIFI81 on threads\n\nhttps://www.threads.com/share/BAZ4DUp05a/",
+      "published_at": "2026-09-21T22:28:25.202592+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1850906753.mp4",
+      "bytes": 551112
     }
   ]
 }

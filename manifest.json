@@ -52,6 +52,17 @@
       "platform": "other",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1853231125,
+      "source_url": "https://www.threads.com/share/BBM-J2ZVSL/",
+      "platform": "threads",
+      "status": "published",
+      "title": "Hridoy Reh (@hridoyreh) on Threads",
+      "description": "You don't need to invent a new idea.\n\nYou can find those already making $1M+.\n\nHow to find $1M+ business ideas:\n\nHridoy Reh on threads\n\nhttps://www.threads.com/share/BBM-J2ZVSL/",
+      "published_at": "2026-09-21T04:16:43.562585+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1853231125.mp4",
+      "bytes": 1208544
     }
   ]
 }

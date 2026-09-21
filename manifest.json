@@ -7,6 +7,17 @@
       "platform": "other",
       "status": "skipped",
       "reason": "extractor_error"
+    },
+    {
+      "raindrop_id": 1858273239,
+      "source_url": "https://www.facebook.com/share/r/1HrTnLZTTF/?mibextid=wwXIfr",
+      "platform": "facebook",
+      "status": "published",
+      "title": "Comment “handle” and i’ll dm you some free drills 💯🎯",
+      "duration_seconds": 54,
+      "published_at": "2026-09-21T02:51:49.921313+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1858273239.mp4",
+      "bytes": 1583257
     }
   ]
 }

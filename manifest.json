@@ -234,6 +234,17 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1850166325,
+      "source_url": "https://www.threads.com/share/BBKcqei0Ii/",
+      "platform": "threads",
+      "status": "published",
+      "title": "unwire.hk (@unwirehk) on Threads",
+      "description": "iPhone Duo 打開時的動畫，已令你感到 Apple 產品哲學有何不同\n\n科技界向來喜歡爭奪「全球第一」的頭銜，但消費者購買的是日用體驗，而非歷史名次。從 2018 年柔宇 FlexPai 到 2019 年 Samsung Galaxy Fold，Android 陣營用了整整 7 年時間替整個市場交學費——處理屏幕故障、改良鉸鏈、減輕厚度，以及探索 App 的大屏幕適應。Apple 足足遲了 7 至 8 年才帶着 iPhone Duo 加入戰場，單看時間，它毫無疑問是個後來者。\n\n然而過往從 iPod、iPad 到 Apple Watch 早就證明，Apple 的核心競爭力是善用「後發優勢」（second-mover advantage），等待技術條件成熟後，重新定義普通人使用它的方式，而非發明全新產品類別。\n\nunwire.hk on threads\n\nhttps://www.threads.com/share/BBKcqei0Ii/",
+      "published_at": "2026-09-21T22:28:55.817908+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1850166325.mp4",
+      "bytes": 264235
     }
   ]
 }

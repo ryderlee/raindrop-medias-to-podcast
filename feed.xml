@@ -1,5 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>Raindrop Podcast</title><link>https://ryderlee.github.io/raindrop-medias-to-podcast/feed.xml</link><description>Videos saved to Raindrop, delivered as a podcast feed.</description><language>en</language><item><title>Razvan Fotia (@razvanfotia) on Threads</title><link>https://www.threads.com/share/BAWVgQEVDA/</link><guid isPermaLink="false">1851019681</guid><pubDate>Mon, 21 Sep 2026 08:48:32 +0000</pubDate><description>His book handed millions of people a way out of the rat race.
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>Raindrop Podcast</title><link>https://ryderlee.github.io/raindrop-medias-to-podcast/feed.xml</link><description>Videos saved to Raindrop, delivered as a podcast feed.</description><language>en</language><item><title>tokens.fm 偷啃 (@tokens.fm) on Threads</title><link>https://www.threads.com/share/_my0z2nDq/</link><guid isPermaLink="false">1847940587</guid><pubDate>Mon, 21 Sep 2026 22:29:20 +0000</pubDate><description>最近 AI 業界有一個職位突然變得非常熱門：FDE（Forward Deployed Engineer）。
+
+OpenAI、Anthropic、Google 等公司都在招募相關人才，但 FDE 到底在做什麼？
+
+它算 SWE 嗎？還是比較像 consultant？
+面試會考 LeetCode 嗎？
+薪水跟一般 SWE 又有什麼差別？
+
+最近 Blind 上剛好出現不少 Google FDE 的第一手分享，加上 Google 自己公開的職缺資訊，大概可以拼出這個職位目前的樣貌。
+
+tokens.fm 偷啃 on threads
+
+https://www.threads.com/share/_my0z2nDq/</description><itunes:summary>最近 AI 業界有一個職位突然變得非常熱門：FDE（Forward Deployed Engineer）。
+
+OpenAI、Anthropic、Google 等公司都在招募相關人才，但 FDE 到底在做什麼？
+
+它算 SWE 嗎？還是比較像 consultant？
+面試會考 LeetCode 嗎？
+薪水跟一般 SWE 又有什麼差別？
+
+最近 Blind 上剛好出現不少 Google FDE 的第一手分享，加上 Google 自己公開的職缺資訊，大概可以拼出這個職位目前的樣貌。
+
+tokens.fm 偷啃 on threads
+
+https://www.threads.com/share/_my0z2nDq/</itunes:summary><enclosure url="https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1847940587.mp4" length="188898" type="video/mp4" /></item><item><title>unwire.hk (@unwirehk) on Threads</title><link>https://www.threads.com/share/BBKcqei0Ii/</link><guid isPermaLink="false">1850166325</guid><pubDate>Mon, 21 Sep 2026 22:28:55 +0000</pubDate><description>iPhone Duo 打開時的動畫，已令你感到 Apple 產品哲學有何不同
+
+科技界向來喜歡爭奪「全球第一」的頭銜，但消費者購買的是日用體驗，而非歷史名次。從 2018 年柔宇 FlexPai 到 2019 年 Samsung Galaxy Fold，Android 陣營用了整整 7 年時間替整個市場交學費——處理屏幕故障、改良鉸鏈、減輕厚度，以及探索 App 的大屏幕適應。Apple 足足遲了 7 至 8 年才帶着 iPhone Duo 加入戰場，單看時間，它毫無疑問是個後來者。
+
+然而過往從 iPod、iPad 到 Apple Watch 早就證明，Apple 的核心競爭力是善用「後發優勢」（second-mover advantage），等待技術條件成熟後，重新定義普通人使用它的方式，而非發明全新產品類別。
+
+unwire.hk on threads
+
+https://www.threads.com/share/BBKcqei0Ii/</description><itunes:summary>iPhone Duo 打開時的動畫，已令你感到 Apple 產品哲學有何不同
+
+科技界向來喜歡爭奪「全球第一」的頭銜，但消費者購買的是日用體驗，而非歷史名次。從 2018 年柔宇 FlexPai 到 2019 年 Samsung Galaxy Fold，Android 陣營用了整整 7 年時間替整個市場交學費——處理屏幕故障、改良鉸鏈、減輕厚度，以及探索 App 的大屏幕適應。Apple 足足遲了 7 至 8 年才帶着 iPhone Duo 加入戰場，單看時間，它毫無疑問是個後來者。
+
+然而過往從 iPod、iPad 到 Apple Watch 早就證明，Apple 的核心競爭力是善用「後發優勢」（second-mover advantage），等待技術條件成熟後，重新定義普通人使用它的方式，而非發明全新產品類別。
+
+unwire.hk on threads
+
+https://www.threads.com/share/BBKcqei0Ii/</itunes:summary><enclosure url="https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1850166325.mp4" length="264235" type="video/mp4" /></item><item><title>Yiwei Ho (@1weiho) on Threads</title><link>https://www.threads.com/share/_yQBx6JNa/</link><guid isPermaLink="false">1849848998</guid><pubDate>Mon, 21 Sep 2026 22:28:33 +0000</pubDate><description>剛剛用 Claude 整理完這次 Apple 秋季發表會的資料
+再丟給 open-slide + apple-design skill 生了一份簡報 🎞️
+
+這次產出的結果，最讓我驚艷的是圖片的排版！
+不管是一張大圖、多張圖片
+還是直接拿圖片當背景
+它都能自己找到很舒服的位置放進版面裡
+尤其圖片很多的頁面
+原本以為會很容易亂掉
+但實際出來的佈局比我預期好很多 🤯
+
+Yiwei Ho on threads
+
+https://www.threads.com/share/_yQBx6JNa/</description><itunes:summary>剛剛用 Claude 整理完這次 Apple 秋季發表會的資料
+再丟給 open-slide + apple-design skill 生了一份簡報 🎞️
+
+這次產出的結果，最讓我驚艷的是圖片的排版！
+不管是一張大圖、多張圖片
+還是直接拿圖片當背景
+它都能自己找到很舒服的位置放進版面裡
+尤其圖片很多的頁面
+原本以為會很容易亂掉
+但實際出來的佈局比我預期好很多 🤯
+
+Yiwei Ho on threads
+
+https://www.threads.com/share/_yQBx6JNa/</itunes:summary><enclosure url="https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1849848998.mp4" length="2905756" type="video/mp4" /></item><item><title>HIFI81 (@eddiezz81) on Threads</title><link>https://www.threads.com/share/BAZ4DUp05a/</link><guid isPermaLink="false">1850906753</guid><pubDate>Mon, 21 Sep 2026 22:28:25 +0000</pubDate><description>The hinge is the interface
+关于iPhone Duo的讨论几乎都在说：它的UI太漂亮了。Dock移到侧边，Dynamic Island变成纵向，App随屏幕展开、翻转、半折叠重新排列。
+的确惊艳。但如果只用这些词来描述，我觉得可惜。这些界面可能只是结果，背后究竟是什么在支撑它们？
+已有折叠屏产品的逻辑很清楚：想要更大的屏幕，但设备变大又不方便携带，于是折起来。推导很合理：Bigger Screen→Portability Problem→Foldable Display。
+软件也沿着这条路发展：屏幕大了，就增加多任务；画布宽了，就加入分栏，让两个App同时出现，显示更多信息。
+它们处理的是：屏幕变大之后，软件怎么办？这就是screen-centric design，屏幕始终是设计的中心。
+但iPhone Duo有一个容易被忽视的东西：铰链，hinge。
+没有它，手机不能折。我们很容易把它看成工程问题：怎样更薄、减少折痕，控制好阻尼，又能承受反复弯折？
+看完软件，我开始觉得，Apple对铰链的理解可能不只停在工程层面。
+
+HIFI81 on threads
+
+https://www.threads.com/share/BAZ4DUp05a/</description><itunes:summary>The hinge is the interface
+关于iPhone Duo的讨论几乎都在说：它的UI太漂亮了。Dock移到侧边，Dynamic Island变成纵向，App随屏幕展开、翻转、半折叠重新排列。
+的确惊艳。但如果只用这些词来描述，我觉得可惜。这些界面可能只是结果，背后究竟是什么在支撑它们？
+已有折叠屏产品的逻辑很清楚：想要更大的屏幕，但设备变大又不方便携带，于是折起来。推导很合理：Bigger Screen→Portability Problem→Foldable Display。
+软件也沿着这条路发展：屏幕大了，就增加多任务；画布宽了，就加入分栏，让两个App同时出现，显示更多信息。
+它们处理的是：屏幕变大之后，软件怎么办？这就是screen-centric design，屏幕始终是设计的中心。
+但iPhone Duo有一个容易被忽视的东西：铰链，hinge。
+没有它，手机不能折。我们很容易把它看成工程问题：怎样更薄、减少折痕，控制好阻尼，又能承受反复弯折？
+看完软件，我开始觉得，Apple对铰链的理解可能不只停在工程层面。
+
+HIFI81 on threads
+
+https://www.threads.com/share/BAZ4DUp05a/</itunes:summary><enclosure url="https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1850906753.mp4" length="551112" type="video/mp4" /></item><item><title>Razvan Fotia (@razvanfotia) on Threads</title><link>https://www.threads.com/share/BAWVgQEVDA/</link><guid isPermaLink="false">1851019681</guid><pubDate>Mon, 21 Sep 2026 08:48:32 +0000</pubDate><description>His book handed millions of people a way out of the rat race.
 
 Tim Ferriss.
 

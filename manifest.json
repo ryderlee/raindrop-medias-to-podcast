@@ -45,6 +45,13 @@
       "published_at": "2026-09-21T02:58:46.115158+00:00",
       "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1855320589.mp4",
       "bytes": 1595889
+    },
+    {
+      "raindrop_id": 1855964396,
+      "source_url": "https://www.scrolltide.co/?v=2",
+      "platform": "other",
+      "status": "skipped",
+      "reason": "no_video"
     }
   ]
 }

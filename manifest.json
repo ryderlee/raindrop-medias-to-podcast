@@ -352,6 +352,17 @@
       "published_at": "2026-09-22T21:49:20.015032+00:00",
       "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1844401477.mp4",
       "bytes": 17435337
+    },
+    {
+      "raindrop_id": 1844038463,
+      "source_url": "https://www.aiposthub.com/anthropic-claude-fermats-last-theorem-lean-formalization/",
+      "platform": "other",
+      "status": "published",
+      "title": "「百年數學難題被 AI 機器驗證了！」Anthropic 震撼宣布：Claude 僅花 11 天寫出 1,300 萬行 Lean 程式碼，完成人類首個《費馬最後定理》形式化證明全解析",
+      "description": "Anthropic 旗下 Claude 僅花 11 天自主產出 1,300 萬行 Lean 4 代碼，完成人類首個《費馬最後定理》端到端電腦形式化證明。本文深度解析 Prove2Me 平台架構、Kevin Buzzard 專家評價，以及 AI 如何化解純數學百年「審稿危機」。\n\nother\n\nhttps://www.aiposthub.com/anthropic-claude-fermats-last-theorem-lean-formalization/",
+      "published_at": "2026-09-22T21:49:21.278827+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1844038463.mp4",
+      "bytes": 2118141
     }
   ]
 }

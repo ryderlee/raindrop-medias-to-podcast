@@ -319,6 +319,17 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1845068679,
+      "source_url": "https://www.aiposthub.com/meta-aira-3-autonomous-ai-researcher-kaggle-gold/",
+      "platform": "other",
+      "status": "published",
+      "title": "擊敗全球 4,000 支頂尖隊伍奪金！Meta 發表自主 AI 研究員「AIRA₃」：微調 30B 模型、降 GPU 延遲 27%，AI 研發正式邁入工業化自展時代",
+      "description": "Meta FAIR 新一代自主 AI 研究系統 AIRA₃ 於 2026 年 6 月出戰 NVIDIA 30B Nemotron 微調挑戰賽，在 4,000 支頂尖人類隊伍中斬獲第 8 名金牌！更在古阿卡德語泥板翻譯奪金、降低生產 GPU 延遲 27%，開啟 AI 研發工業化自展時代。\n\nother\n\nhttps://www.aiposthub.com/meta-aira-3-autonomous-ai-researcher-kaggle-gold/",
+      "published_at": "2026-09-22T21:48:35.974752+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1845068679.mp4",
+      "bytes": 6661035
     }
   ]
 }

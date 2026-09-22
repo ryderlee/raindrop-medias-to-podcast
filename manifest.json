@@ -370,6 +370,17 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1843516218,
+      "source_url": "https://www.threads.com/share/BAb6nyWeIK/",
+      "platform": "threads",
+      "status": "published",
+      "title": "Priller (@priller) on Threads",
+      "description": "Cybercab發布活動演講全文\n\n✅主持人/產品介紹\n\n歡迎各位蒞臨這款跨越世代的產品與技術發布會。\n\n今天能在此親身體驗 Cybercab，我感到非常高興。\n我是這款產品的首席工程師 Eric Early。\n我是負責車輛軟體的 Sylvio。\n我是 Cybercab 現場經理 Ian。\nCybercab 是交通的未來。\n\n比人類駕駛者更安全、成本更低、隨需隨用、易於接近，而且乘坐體驗本身就非常愉快。\n我們一直承諾一個富饒的未來，這就是它。\n\n我們打造了一輛以乘客為中心設計與優化的車輛，看起來就像未來一樣。\n\n老實說，我認為能做到這一點的只有我們。\n\n我們通曉汽車、生產與軟體，並能將它們整合為一。\nCybercab 能幫你奪回生命的時間。\n它給你更多工作時間、陪伴摯愛的時間、享受的時間。\n\n以經濟艙價格提供頭等艙體驗。\n\n成為最經濟的選擇，為所有人開啟乾淨且安全的移動。\n\n✅自動駕駛 / 安全\n\nCybercab 不是一夜之間冒出來的產品。\n\n我們在 12 年前啟動自動駕駛計畫，目標只有一個。\n\n打造最安全、最經濟且最具擴展性的自動駕駛。\n\nPriller on threads\n\nhttps://www.threads.com/share/BAb6nyWeIK/",
+      "published_at": "2026-09-22T21:49:30.763304+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1843516218.mp4",
+      "bytes": 8424605
     }
   ]
 }

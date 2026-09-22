@@ -284,6 +284,20 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1862100282,
+      "source_url": "https://medium.com/data-science-in-your-pocket/laya-bye-bye-typescript-jev-ai-bdefd25149e0",
+      "platform": "other",
+      "status": "skipped",
+      "reason": "extractor_error"
+    },
+    {
+      "raindrop_id": 1844395888,
+      "source_url": "http://github.com/h4ckf0r0day/obscura",
+      "platform": "other",
+      "status": "skipped",
+      "reason": "no_video"
     }
   ]
 }

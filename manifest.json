@@ -466,6 +466,13 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1838434434,
+      "source_url": "https://www.threads.com/share/BBa7xgYJWj/",
+      "platform": "threads",
+      "status": "skipped",
+      "reason": "no_video"
     }
   ]
 }

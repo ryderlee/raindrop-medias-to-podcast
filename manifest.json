@@ -441,6 +441,17 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1838871150,
+      "source_url": "https://www.aiposthub.com/rockchip-rk3566-microduck-edge-ai-stock/",
+      "platform": "other",
+      "status": "published",
+      "title": "Microduck 爆單，瑞芯微（603893）真是「端側 AI 第一股」？從 RK3566、財報到估值完整分析",
+      "description": "Microduck 證明 RK3566 能進入熱門海外機器人，但數千筆預購尚不足以改變瑞芯微財報；真正關鍵是 RK182X、毛利率與目前估值。\n\nother\n\nhttps://www.aiposthub.com/rockchip-rk3566-microduck-edge-ai-stock/",
+      "published_at": "2026-09-23T22:06:32.292036+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1838871150.mp4",
+      "bytes": 1224585
     }
   ]
 }

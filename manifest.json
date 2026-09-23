@@ -423,6 +423,17 @@
       "platform": "other",
       "status": "skipped",
       "reason": "extractor_error"
+    },
+    {
+      "raindrop_id": 1839745529,
+      "source_url": "https://www.aiposthub.com/github-ai-agent-projects-graft-orca/",
+      "platform": "other",
+      "status": "published",
+      "title": "GitHub 爆紅的 6 個 AI Agent 專案：別只養一個助手，開始打造你的 Agent 艦隊",
+      "description": "6 個 GitHub 熱門 AI Agent 專案，分別補上程式脈絡、專家角色、知識圖譜、網路研究、影片製作與多 Agent 平行管理。\n\nother\n\nhttps://www.aiposthub.com/github-ai-agent-projects-graft-orca/",
+      "published_at": "2026-09-23T22:06:09.537310+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1839745529.mp4",
+      "bytes": 5318673
     }
   ]
 }

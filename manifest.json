@@ -487,6 +487,17 @@
       "platform": "other",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1838093637,
+      "source_url": "https://www.threads.com/share/_4VPOoz0z/",
+      "platform": "threads",
+      "status": "published",
+      "title": "AI郵報 (@aiposthub) on Threads",
+      "description": "Vercel 又偷偷丟了一個給 AI Agent 玩的開源工具。\n\n這次是 vgpu.sh，一個主打 Agent-first 的 WebGPU library。\n\n原本是 Vercel 自己拿來在 vercel.com 上部署 Shader，現在直接開源。\n\nAI郵報 on threads\n\nhttps://www.threads.com/share/_4VPOoz0z/",
+      "published_at": "2026-09-23T22:07:38.072190+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1838093637.mp4",
+      "bytes": 4028572
     }
   ]
 }

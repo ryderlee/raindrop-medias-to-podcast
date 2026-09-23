@@ -1,5 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>Raindrop Podcast</title><link>https://ryderlee.github.io/raindrop-medias-to-podcast/feed.xml</link><description>Videos saved to Raindrop, delivered as a podcast feed.</description><language>en</language><item><title>Priller (@priller) on Threads</title><link>https://www.threads.com/share/BAb6nyWeIK/</link><guid isPermaLink="false">1843516218</guid><pubDate>Tue, 22 Sep 2026 21:49:30 +0000</pubDate><description>Cybercab發布活動演講全文
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>Raindrop Podcast</title><link>https://ryderlee.github.io/raindrop-medias-to-podcast/feed.xml</link><description>Videos saved to Raindrop, delivered as a podcast feed.</description><language>en</language><item><title>AI郵報 (@aiposthub) on Threads</title><link>https://www.threads.com/share/_4VPOoz0z/</link><guid isPermaLink="false">1838093637</guid><pubDate>Wed, 23 Sep 2026 22:07:38 +0000</pubDate><description>Vercel 又偷偷丟了一個給 AI Agent 玩的開源工具。
+
+這次是 vgpu.sh，一個主打 Agent-first 的 WebGPU library。
+
+原本是 Vercel 自己拿來在 vercel.com 上部署 Shader，現在直接開源。
+
+AI郵報 on threads
+
+https://www.threads.com/share/_4VPOoz0z/</description><itunes:summary>Vercel 又偷偷丟了一個給 AI Agent 玩的開源工具。
+
+這次是 vgpu.sh，一個主打 Agent-first 的 WebGPU library。
+
+原本是 Vercel 自己拿來在 vercel.com 上部署 Shader，現在直接開源。
+
+AI郵報 on threads
+
+https://www.threads.com/share/_4VPOoz0z/</itunes:summary><enclosure url="https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1838093637.mp4" length="4028572" type="video/mp4" /></item><item><title>Microduck 爆單，瑞芯微（603893）真是「端側 AI 第一股」？從 RK3566、財報到估值完整分析</title><link>https://www.aiposthub.com/rockchip-rk3566-microduck-edge-ai-stock/</link><guid isPermaLink="false">1838871150</guid><pubDate>Wed, 23 Sep 2026 22:06:32 +0000</pubDate><description>Microduck 證明 RK3566 能進入熱門海外機器人，但數千筆預購尚不足以改變瑞芯微財報；真正關鍵是 RK182X、毛利率與目前估值。
+
+other
+
+https://www.aiposthub.com/rockchip-rk3566-microduck-edge-ai-stock/</description><itunes:summary>Microduck 證明 RK3566 能進入熱門海外機器人，但數千筆預購尚不足以改變瑞芯微財報；真正關鍵是 RK182X、毛利率與目前估值。
+
+other
+
+https://www.aiposthub.com/rockchip-rk3566-microduck-edge-ai-stock/</itunes:summary><enclosure url="https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1838871150.mp4" length="1224585" type="video/mp4" /></item><item><title>GitHub 爆紅的 6 個 AI Agent 專案：別只養一個助手，開始打造你的 Agent 艦隊</title><link>https://www.aiposthub.com/github-ai-agent-projects-graft-orca/</link><guid isPermaLink="false">1839745529</guid><pubDate>Wed, 23 Sep 2026 22:06:09 +0000</pubDate><description>6 個 GitHub 熱門 AI Agent 專案，分別補上程式脈絡、專家角色、知識圖譜、網路研究、影片製作與多 Agent 平行管理。
+
+other
+
+https://www.aiposthub.com/github-ai-agent-projects-graft-orca/</description><itunes:summary>6 個 GitHub 熱門 AI Agent 專案，分別補上程式脈絡、專家角色、知識圖譜、網路研究、影片製作與多 Agent 平行管理。
+
+other
+
+https://www.aiposthub.com/github-ai-agent-projects-graft-orca/</itunes:summary><enclosure url="https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1839745529.mp4" length="5318673" type="video/mp4" /></item><item><title>Priller (@priller) on Threads</title><link>https://www.threads.com/share/BAb6nyWeIK/</link><guid isPermaLink="false">1843516218</guid><pubDate>Tue, 22 Sep 2026 21:49:30 +0000</pubDate><description>Cybercab發布活動演講全文
 
 ✅主持人/產品介紹
 

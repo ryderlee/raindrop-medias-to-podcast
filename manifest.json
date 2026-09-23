@@ -388,6 +388,41 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1863449866,
+      "source_url": "https://www.facebook.com/share/p/1F2VwsNX9h/?mibextid=wwXIfr",
+      "platform": "facebook",
+      "status": "skipped",
+      "reason": "extractor_error"
+    },
+    {
+      "raindrop_id": 1842395882,
+      "source_url": "https://x.com/deanwperkins/status/2095271382783328463?s=12&t=OyY10eFOc4oUJuql-38DCg",
+      "platform": "x",
+      "status": "skipped",
+      "reason": "too_large"
+    },
+    {
+      "raindrop_id": 1841984262,
+      "source_url": "https://lnkd.in/p/g7VqXAF7",
+      "platform": "other",
+      "status": "skipped",
+      "reason": "extractor_error"
+    },
+    {
+      "raindrop_id": 1838719933,
+      "source_url": "https://whaleagent.io/posts/spacex-fcc-block-viasat3-f2-starlink-interference",
+      "platform": "other",
+      "status": "skipped",
+      "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1838243357,
+      "source_url": "https://lnkd.in/p/gjwHby89",
+      "platform": "other",
+      "status": "skipped",
+      "reason": "extractor_error"
     }
   ]
 }

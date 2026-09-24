@@ -552,6 +552,17 @@
       "published_at": "2026-09-24T22:00:05.636787+00:00",
       "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1837340750.mp4",
       "bytes": 6603383
+    },
+    {
+      "raindrop_id": 1837298442,
+      "source_url": "https://www.threads.com/share/BANkNG4nKJ/",
+      "platform": "threads",
+      "status": "published",
+      "title": "AI Era (@ai_era2026) on Threads",
+      "description": "Join Threads to share ideas, ask questions, post random thoughts, find your people and more. Log in with your Instagram.\n\nThreads • Log in on threads\n\nhttps://www.threads.com/share/BANkNG4nKJ/",
+      "published_at": "2026-09-24T22:00:10.495214+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1837298442.mp4",
+      "bytes": 18558077
     }
   ]
 }

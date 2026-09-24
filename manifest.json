@@ -519,6 +519,17 @@
       "platform": "facebook",
       "status": "skipped",
       "reason": "login_required"
+    },
+    {
+      "raindrop_id": 1836188106,
+      "source_url": "https://www.threads.com/share/BAkvczZtrT/",
+      "platform": "threads",
+      "status": "published",
+      "title": "你的早餐提案｜簡單食譜十分鐘完成 (@breakfast.ideas.tw) on Threads",
+      "description": "Dr. Mark Hyman （西醫家庭醫學科醫師）分享的「長壽晨間日常」4 大核心筆記：\n\n1. 光照與電解質水重設時鐘：醒來立刻喝 16 盎司（約莫480ml) 電解質水，並曬 20 分鐘戶外日光，作為開啟一天的生理時鐘訊號\n\n2. 「Take Five」呼吸法穩固神經：吸氣 5 秒、暫停 5 秒、吐氣 5 秒，每天 10～15 分鐘調節自律神經。\n\n3. 無糖高蛋白長壽飲食：早餐避開精緻糖，以好油與蛋白質為主，提供穩定的身體能量基礎。\n\n4. 抗阻肌力訓練護腦：重視規律的肌力與阻力刺激，居家或外出時運用彈力帶活動身體，維持肌肉使用與血液循環\n\n你的早餐提案｜簡單食譜十分鐘完成 on threads\n\nhttps://www.threads.com/share/BAkvczZtrT/",
+      "published_at": "2026-09-24T21:59:58.441348+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1836188106.mp4",
+      "bytes": 2895369
     }
   ]
 }

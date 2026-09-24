@@ -505,6 +505,20 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1837519744,
+      "source_url": "https://www.anduril.tw/uncle-bob-agents/",
+      "platform": "other",
+      "status": "skipped",
+      "reason": "login_required"
+    },
+    {
+      "raindrop_id": 1835695396,
+      "source_url": "https://www.facebook.com/share/1DadCEoAAg/?mibextid=wwXIfr",
+      "platform": "facebook",
+      "status": "skipped",
+      "reason": "login_required"
     }
   ]
 }

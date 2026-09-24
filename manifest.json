@@ -606,6 +606,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1836137931,
+      "source_url": "https://x.com/alanchen/status/2092678306303017016?s=12&t=OyY10eFOc4oUJuql-38DCg",
+      "platform": "x",
+      "status": "published",
+      "title": "spacexai一个工程师@poteto用 @bot 5个月交了3000多个PR，经常一觉醒来发现AI已经帮她合了20个代码。",
+      "duration_seconds": 3426,
+      "description": "spacexai一个工程师@poteto用 @bot 5个月交了3000多个PR，经常一觉醒来发现AI已经帮她合了20个代码。 SpaceXAI 的工程师在分享她们怎么把项目改造成「AI自己就能干活」的样子，看完你会觉得以后写代码真的会变天。 强烈推荐去看这个视频。 $SPCX   https://t.co/0t3hgLuid8\n\n⧫ Alan Chen ⧫(alanchentsla.eth） on x · 57:06\n\nhttps://x.com/alanchen/status/2092678306303017016?s=12&t=OyY10eFOc4oUJuql-38DCg",
+      "published_at": "2026-09-24T22:04:40.274092+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1836137931.mp4",
+      "bytes": 208696607
     }
   ]
 }

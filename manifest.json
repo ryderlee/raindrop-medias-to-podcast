@@ -625,6 +625,13 @@
       "platform": "youtube",
       "status": "skipped",
       "reason": "login_required"
+    },
+    {
+      "raindrop_id": 1835117987,
+      "source_url": "https://www.threads.com/share/BAZdWQiKfk/",
+      "platform": "threads",
+      "status": "skipped",
+      "reason": "no_video"
     }
   ]
 }

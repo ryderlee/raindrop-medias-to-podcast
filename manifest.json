@@ -632,6 +632,17 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1833916993,
+      "source_url": "https://www.threads.com/share/BAMw7tF0QH/",
+      "platform": "threads",
+      "status": "published",
+      "title": "Fox Hsiao (@fox.hsiao) on Threads",
+      "description": "一群美國科學家幫新手爸爸掃描腦部，發現小孩出生後，腦子真的變小了。\n\n做這項研究的是南加州大學（USC）心理學教授 Darby Saxbe，她研究父母轉換期超過十年，其中一項發表在《Cerebral Cortex》的研究，比較新手爸爸在寶寶出生前後的腦部掃描，發現大腦皮質體積平均減少約 1%。她引用的另一批母親研究則顯示，初為人母的灰質減少幅度可達 2.5% 左右，數字來自不同的研究樣本，不是同一批人。這些發現整理進她今年出版的《Dad Brain》，她也在 Podcast《The Diary Of A CEO》最新一集裡向主持人拆解給觀眾聽。\n\nFox Hsiao on threads\n\nhttps://www.threads.com/share/BAMw7tF0QH/",
+      "published_at": "2026-09-25T21:59:58.389617+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1833916993.mp4",
+      "bytes": 8567778
     }
   ]
 }

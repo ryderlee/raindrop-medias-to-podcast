@@ -671,6 +671,17 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1833619978,
+      "source_url": "https://www.threads.com/share/BAhScySvm6/",
+      "platform": "threads",
+      "status": "published",
+      "title": "@whatisthishithuh on Threads",
+      "description": "馬斯克為何將戰略重心從火星轉向月球？\n\n​馬斯克（Elon Musk）在過去二十多年裡，始終將「殖民火星」視為 SpaceX 的終極信仰，甚至曾在前幾年直言「月球只是一種分心（distraction）」。\n\n​然而，2026 年 2 月，馬斯克在 X 平台上宣布了震撼太空界的戰略大轉彎：SpaceX 的短期優先目標，正式從火星轉向「在 10 年內於月球建立一座可自我成長的城市（self-growing city）」。\n\n火星計畫雖然沒有被放棄，但實質上已被大幅推遲（預計延後至 5 到 7 年後才開始基礎建設）。\n\n​這個從「火星浪漫主義」向「月球實用主義」低頭的轉變，絕非馬斯克一時興起，而是物理現實、大國博弈與商業利益交織下的必然結果。\n\n我們可以從以下四個核心維度來深度拆解\n\n@whatisthishithuh on Threads on threads\n\nhttps://www.threads.com/share/BAhScySvm6/",
+      "published_at": "2026-09-25T22:00:43.795846+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1833619978.mp4",
+      "bytes": 16908812
     }
   ]
 }

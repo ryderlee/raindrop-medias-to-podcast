@@ -696,6 +696,17 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1822258935,
+      "source_url": "https://www.threads.com/share/_5MZmjjqk/",
+      "platform": "threads",
+      "status": "published",
+      "title": "張志宇 (@cocotank0530) on Threads",
+      "description": "地獄般的一分鐘鍛鍊挑戰 😂\n\n張志宇 on threads\n\nhttps://www.threads.com/share/_5MZmjjqk/",
+      "published_at": "2026-09-25T22:00:56.576418+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1822258935.mp4",
+      "bytes": 14983862
     }
   ]
 }

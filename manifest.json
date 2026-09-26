@@ -763,6 +763,17 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1807396461,
+      "source_url": "https://s3.us-west-1.wasabisys.com/p-library/books/adfe179f0bc9708d1b493b8d703c5fa9.pdf",
+      "platform": "other",
+      "status": "published",
+      "title": "大逃港",
+      "description": "other\n\nhttps://s3.us-west-1.wasabisys.com/p-library/books/adfe179f0bc9708d1b493b8d703c5fa9.pdf",
+      "published_at": "2026-09-26T21:52:14.407268+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1807396461.unknown_video",
+      "bytes": 84789127
     }
   ]
 }

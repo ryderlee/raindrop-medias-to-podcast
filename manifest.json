@@ -848,6 +848,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1772847616,
+      "source_url": "https://www.facebook.com/share/v/17YXzUgLfy/?mibextid=wwXIfr",
+      "platform": "facebook",
+      "status": "published",
+      "title": "Shifty Workout 🏀 3-Minute Follow-Along Save for Later",
+      "duration_seconds": 178,
+      "description": "Kyle Travis on facebook · 2:58\n\nhttps://www.facebook.com/share/v/17YXzUgLfy/?mibextid=wwXIfr",
+      "published_at": "2026-09-27T21:52:14.875263+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1772847616.mp4",
+      "bytes": 24013081
     }
   ]
 }

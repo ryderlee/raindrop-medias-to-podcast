@@ -834,6 +834,13 @@
       "platform": "facebook",
       "status": "skipped",
       "reason": "extractor_error"
+    },
+    {
+      "raindrop_id": 1772590772,
+      "source_url": "https://www.threads.com/@the_crazy_money45/post/DZ_pzsHHGRy?xmt=AQG0zwSmoR5tYrU5rDktknQssQn00vxXuT6epXy_QZTD6ArMJCJ20JBig1Uv8uqjVBWyfsY4&slof=1",
+      "platform": "threads",
+      "status": "skipped",
+      "reason": "no_video"
     }
   ]
 }

@@ -841,6 +841,13 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1774582422,
+      "source_url": "https://www.threads.com/@meta.ai/post/DaGII8WguJW?xmt=AQG0XNHHABp8mFi-doYtcHPF78ctCfPhzGxfl5zhM2TXp_awxFyv6A6uUgKw3LkcE7vWnS7-&slof=1",
+      "platform": "threads",
+      "status": "skipped",
+      "reason": "no_video"
     }
   ]
 }

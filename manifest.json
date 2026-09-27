@@ -898,6 +898,13 @@
       "published_at": "2026-09-27T21:52:56.509024+00:00",
       "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1771464882.mp4",
       "bytes": 12813334
+    },
+    {
+      "raindrop_id": 1757923787,
+      "source_url": "https://www.threads.com/@huang_li_r/post/DZTmsKPGquW?xmt=AQG0TQOLME8W-CRQ_2Jkn4uYRsr4hkfmTIcU9iQNB0-XP8ugjgqfzKnmh4m1f9RvcXPBA8ZM&slof=1",
+      "platform": "threads",
+      "status": "skipped",
+      "reason": "no_video"
     }
   ]
 }

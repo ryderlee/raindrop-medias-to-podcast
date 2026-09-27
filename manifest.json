@@ -886,6 +886,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1771464882,
+      "source_url": "https://www.facebook.com/share/r/1Fxc9DkhFw/?mibextid=wwXIfr",
+      "platform": "facebook",
+      "status": "published",
+      "title": "Being a Good dribbler vs Good Ball Handler are 2 different things…here’s how you can incorporate Good Footork",
+      "duration_seconds": 56,
+      "description": "Kyle Travis on facebook · 0:56\n\nhttps://www.facebook.com/share/r/1Fxc9DkhFw/?mibextid=wwXIfr",
+      "published_at": "2026-09-27T21:52:56.509024+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1771464882.mp4",
+      "bytes": 12813334
     }
   ]
 }

@@ -905,6 +905,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1770483634,
+      "source_url": "https://www.facebook.com/share/r/18p8pPrghD/?mibextid=wwXIfr",
+      "platform": "facebook",
+      "status": "published",
+      "title": "【下肢强化】30分钟个人训练计划 #篮球梦 #basketball🏀 #Malaysia #篮球 #篮球教学",
+      "duration_seconds": 59,
+      "description": "篮球梦 on facebook · 0:59\n\nhttps://www.facebook.com/share/r/18p8pPrghD/?mibextid=wwXIfr",
+      "published_at": "2026-09-27T21:53:27.293895+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1770483634.mp4",
+      "bytes": 7838308
     }
   ]
 }

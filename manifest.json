@@ -879,6 +879,13 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1762702851,
+      "source_url": "https://www.threads.com/@vadymhimself/post/DZuYpvZFgd-?xmt=AQG0BMmiVsqjBUOKgjuMWrnaSrvXSEzBVQ0SCXlWQDGH42G50ZxruMQX7X6l7WA5neA73h5A&slof=1",
+      "platform": "threads",
+      "status": "skipped",
+      "reason": "no_video"
     }
   ]
 }

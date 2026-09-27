@@ -827,6 +827,13 @@
       "platform": "x",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1777827851,
+      "source_url": "https://www.facebook.com/ads/ig_redirect/?d=Ad9YHUrDLHwdSWIQ7BIxCMUGOsQlefMpU8Mbm9QHSznRkSE_2I5GRV3Hm-zWHa_wpdgw0sNokJg2seO9q0Lzzxb5ccYOvBgJOvu1DJR7rgv8AckxPm18p2HSecBBMRZ-lFSHo_lMo2G76liNR5vz2sUk4-tDK-esa-bLH_YQA-xQ6rmC_bxDxA_-cBBoN-PRIFr310MAMQVKlhDb2Mh5zRkWUV0vCPJ8Wxt21nOBmdiR_mX88KbAr0hsWFEU4POBxLQM-DRNXQIZTX8tLQqb5-XbDP9KyVti4w0pxBY_d0izhmSPkeDtPjnsTF6V-mGVmy_R3p-a8fU-Crosijy24Rztp4oqOSCuGwqq-lNsOkDISDQDKyoLy8KynM-K_uas_bC-GBzvOB9bzVGwvSQCruADhhnbbQj-v0SG4CvMaNzVKMz4wkE1HFvle09HrkEHtPuykcV8QR-pCx_3H-INWIbPg_QBPPyhAOpJnCQzUwVW0_V4m3epyMfh6rdML-kXl1lMEvpjn18XJZLWF0LxjN8PIVWtHGKFeMo5J79Mbxj5GkeaiX84BJpOMWoXQBgdlAfznhINMOcKClwFQ1RRZjLvBR6HuAza60fyXmHgxyjTGJMfUbkOOXyi2YI8jzmEv81k4pLUDeb_kgc8Z5L5salQiKnQjy326-_k-ikvxIwjgJLGIHKj99XH5nMZoKQraV6gGwEKhwL2ghd5jB1G-r38N0jixnFvb-BK1fG1emwdB8vTQA8Uf1We6Aq-rKF9a2_UPw1psBLdDqLPVO6d3xxx5y9GBlwkzAofIDJlr0IJnHXlNkHsaQEoBm4QcyQ5B7AZVla_HoKej7T3a5tlGQfJFt7-HZxKjmGJEUtq4acEe9SuBZMnP9ged6iKrF-hGnY&a=1&hash=Ad9NMjCO0HbG0IRppS0",
+      "platform": "facebook",
+      "status": "skipped",
+      "reason": "extractor_error"
     }
   ]
 }

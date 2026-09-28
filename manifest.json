@@ -987,6 +987,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1755131110,
+      "source_url": "https://www.facebook.com/share/r/1BMEyFgXxe/?mibextid=wwXIfr",
+      "platform": "facebook",
+      "status": "published",
+      "title": "Most people are doing this completely wrong. The key isn’t just the reps… it’s the tension. Watch my feet closely: • Top of the foot starts on the bench • Toes drive in as I come up • Stay controlled the entire time That small change lights up your entire core and exposes weak links fast. Try 20 clean reps first… then build from there. Follow for more strength, mobility, and core training. #CoreTraining #AbsWorkout #FunctionalFitness #MobilityTraining #InPowerFitness PersonalTrainer NorthSydney BodyweightTraining CoreStrength FitnessTips",
+      "duration_seconds": 30,
+      "description": "InpowerFitness on facebook · 0:30\n\nhttps://www.facebook.com/share/r/1BMEyFgXxe/?mibextid=wwXIfr",
+      "published_at": "2026-09-28T23:45:02.372094+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1755131110.mp4",
+      "bytes": 2333168
     }
   ]
 }

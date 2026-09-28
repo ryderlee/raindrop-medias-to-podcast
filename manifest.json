@@ -917,6 +917,62 @@
       "published_at": "2026-09-27T21:53:27.293895+00:00",
       "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1770483634.mp4",
       "bytes": 7838308
+    },
+    {
+      "raindrop_id": 1755134060,
+      "source_url": "https://www.facebook.com/share/1EQSWugVUc/?mibextid=wwXIfr",
+      "platform": "facebook",
+      "status": "skipped",
+      "reason": "login_required"
+    },
+    {
+      "raindrop_id": 1751953586,
+      "source_url": "https://www.facebook.com/share/1JFKMsrCiA/?mibextid=wwXIfr",
+      "platform": "facebook",
+      "status": "skipped",
+      "reason": "login_required"
+    },
+    {
+      "raindrop_id": 1751295798,
+      "source_url": "https://www.facebook.com/share/1BG9UH9maD/?mibextid=wwXIfr",
+      "platform": "facebook",
+      "status": "skipped",
+      "reason": "login_required"
+    },
+    {
+      "raindrop_id": 1750840409,
+      "source_url": "https://www.881903.com/news/local/2635143/%E8%A1%8C%E6%9C%83%E5%90%91%E5%85%AC%E5%8B%99%E5%93%A1%E8%81%B7%E6%96%B9%E6%8F%90%E5%87%BA%E5%8A%83%E4%B8%80%E5%8A%A0%E8%96%AA2-%E6%A5%8A%E4%BD%95%E8%93%93%E8%8C%B5%E6%B1%BA%E5%AE%9A%E7%B6%93%E5%85%A8%E9%9D%A2%E8%80%83%E6%85%AE%E5%8C%85%E6%8B%AC%E5%85%AC%E7%9C%BE%E8%A7%80%E6%84%9F",
+      "platform": "other",
+      "status": "skipped",
+      "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1750835893,
+      "source_url": "https://www.youtube.com/watch?v=O751bt5AiXY",
+      "platform": "youtube",
+      "status": "skipped",
+      "reason": "login_required"
+    },
+    {
+      "raindrop_id": 1750835635,
+      "source_url": "https://www.youtube.com/",
+      "platform": "youtube",
+      "status": "skipped",
+      "reason": "login_required"
+    },
+    {
+      "raindrop_id": 1750831817,
+      "source_url": "https://cloud.digitalocean.com/droplets?i=cb5d93",
+      "platform": "other",
+      "status": "skipped",
+      "reason": "login_required"
+    },
+    {
+      "raindrop_id": 1749169453,
+      "source_url": "https://github.com/Leonxlnx/taste-skill",
+      "platform": "other",
+      "status": "skipped",
+      "reason": "no_video"
     }
   ]
 }

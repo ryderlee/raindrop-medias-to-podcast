@@ -973,6 +973,13 @@
       "platform": "other",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1750571142,
+      "source_url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/?utm_source=twitter&utm_medium=social&utm_campaign=social_post&utm_content=gr-acct",
+      "platform": "other",
+      "status": "skipped",
+      "reason": "no_video"
     }
   ]
 }

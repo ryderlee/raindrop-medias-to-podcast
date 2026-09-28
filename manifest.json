@@ -980,6 +980,13 @@
       "platform": "other",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1757397268,
+      "source_url": "https://www.threads.com/@romelloduke/post/DZf0vEonbkp?xmt=AQG0ve5wPfGTGWqI4FNTur_CFYAUmxq187ORz-YE7v7rZMO9yGib09VSos74YXmSWfSdKi0&slof=1",
+      "platform": "threads",
+      "status": "skipped",
+      "reason": "no_video"
     }
   ]
 }

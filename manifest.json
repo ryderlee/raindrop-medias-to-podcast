@@ -1006,6 +1006,13 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1756624199,
+      "source_url": "https://www.threads.com/@romelloduke/post/DZdLWM2GhAM?xmt=AQG0Ub68lvmHm-SlVzOcpQuRm-_m-pO_d3ejTh-BsFxXbtWBBSQZErtJTbMfJaWWW7TwYsei&slof=1",
+      "platform": "threads",
+      "status": "skipped",
+      "reason": "no_video"
     }
   ]
 }

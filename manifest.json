@@ -1025,6 +1025,19 @@
       "published_at": "2026-09-28T23:45:39.228189+00:00",
       "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1738411929.mp4",
       "bytes": 1056204
+    },
+    {
+      "raindrop_id": 1874332729,
+      "source_url": "https://www.facebook.com/share/r/1DR234Y3VA/?mibextid=wwXIfr",
+      "platform": "facebook",
+      "status": "published",
+      "reader_document_id": "01m3y2krd4nn18cphffrpzrdvs",
+      "title": "10 minute daily handle workout😤 #basketball #hoops #ballislife #ndobasketball #reels",
+      "duration_seconds": 34,
+      "description": "Noah Chee on facebook · 0:34\n\nhttps://www.facebook.com/share/r/1DR234Y3VA/?mibextid=wwXIfr",
+      "published_at": "2026-10-02T19:11:33.498478+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1874332729.mp4",
+      "bytes": 10508620
     }
   ]
 }

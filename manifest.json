@@ -1038,6 +1038,27 @@
       "published_at": "2026-10-02T19:11:33.498478+00:00",
       "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1874332729.mp4",
       "bytes": 10508620
+    },
+    {
+      "raindrop_id": 1875209272,
+      "source_url": "https://lnkd.in/p/g-FvWER2",
+      "platform": "other",
+      "status": "skipped",
+      "reason": "extractor_error"
+    },
+    {
+      "raindrop_id": 1875043115,
+      "source_url": "https://skillry.dev/ai-videos/opus-5-5",
+      "platform": "other",
+      "status": "skipped",
+      "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1875043050,
+      "source_url": "https://go.starterstory.com/cta-c3636137",
+      "platform": "other",
+      "status": "skipped",
+      "reason": "no_video"
     }
   ]
 }

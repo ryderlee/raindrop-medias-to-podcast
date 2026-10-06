@@ -1059,6 +1059,13 @@
       "platform": "other",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1878873416,
+      "source_url": "https://www.facebook.com/share/p/17qPSDENsq/?mibextid=wwXIfr",
+      "platform": "facebook",
+      "status": "skipped",
+      "reason": "login_required"
     }
   ]
 }

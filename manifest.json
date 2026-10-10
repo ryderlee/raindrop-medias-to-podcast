@@ -1149,6 +1149,13 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1879517189,
+      "source_url": "https://www.threads.com/share/_xNtTSqvk/",
+      "platform": "threads",
+      "status": "skipped",
+      "reason": "no_video"
     }
   ]
 }

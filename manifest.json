@@ -1111,6 +1111,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1882253944,
+      "source_url": "https://www.threads.com/share/_yCucmkvm/",
+      "platform": "threads",
+      "status": "published",
+      "reader_document_id": "01m4hw4n9kvnnc7ms145d9akrp",
+      "title": "this is what detailed UI looks like",
+      "description": "Nazday on threads\n\nhttps://www.threads.com/share/_yCucmkvm/",
+      "published_at": "2026-10-10T19:09:54.324149+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1882253944.mp4",
+      "bytes": 248645
     }
   ]
 }

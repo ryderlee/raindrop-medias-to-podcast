@@ -1130,6 +1130,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1882245111,
+      "source_url": "https://www.threads.com/share/_znxW-WBN/",
+      "platform": "threads",
+      "status": "published",
+      "reader_document_id": "01m4hw4q81vv27mmn7dq28fera",
+      "title": "最近發現一個網站，感覺 PM、設計師跟 AI 創作者會逛到忘記時間 XD",
+      "description": "最近發現一個網站，感覺 PM、設計師跟 AI 創作者會逛到忘記時間 XD\n\n它叫 Prompt Motion。\n\n裡面整理了大量用 Claude Opus 5.5 製作的動畫案例，光是 10/6 公告時就已經有 226 個！\n\n最有趣的是：\n\n每個動畫案例都能搭配 Prompt 或 Skill 查看，還能找到原始創作者。\n\n等於你看到一個很厲害的動畫，可以直接研究它背後的製作方法。\n\n產品經理的背後靈 Philo 👻 on threads\n\nhttps://www.threads.com/share/_znxW-WBN/",
+      "published_at": "2026-10-10T19:10:01.558644+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1882245111.mp4",
+      "bytes": 2450475
     }
   ]
 }

@@ -1066,6 +1066,13 @@
       "platform": "facebook",
       "status": "skipped",
       "reason": "login_required"
+    },
+    {
+      "raindrop_id": 1877626883,
+      "source_url": "https://www.threads.com/share/BAn95wBL7P/",
+      "platform": "threads",
+      "status": "skipped",
+      "reason": "no_video"
     }
   ]
 }

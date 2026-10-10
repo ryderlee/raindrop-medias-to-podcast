@@ -1073,6 +1073,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1877788702,
+      "source_url": "https://www.threads.com/share/_jKUeTO23/",
+      "platform": "threads",
+      "status": "published",
+      "reader_document_id": "01m4hw53wg7qf8rjmz4z4n5vkn",
+      "title": "Harvard scientists now know how to regrow hair.",
+      "description": "Harvard scientists now know how to regrow hair.\n\nBy 35, 2 out of 3 men lose their hair (regardless of genetics).\n\nHere are 7 ways to grow your hair back (& keep it black):\n\n1. Your follicles don't die even after loss of hair:\n\nRasmus Norberg on threads\n\nhttps://www.threads.com/share/_jKUeTO23/",
+      "published_at": "2026-10-10T19:09:45.685677+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1877788702.mp4",
+      "bytes": 3949499
     }
   ]
 }

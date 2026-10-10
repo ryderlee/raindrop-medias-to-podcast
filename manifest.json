@@ -1092,6 +1092,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1879510357,
+      "source_url": "https://www.threads.com/share/_6RONW9Pz/",
+      "platform": "threads",
+      "status": "published",
+      "reader_document_id": "01m4hw4xhkm8yr1c595bpv8abx",
+      "title": "this guy basically built a taste pack for Claude 😭",
+      "description": "this guy basically built a taste pack for Claude 😭\n\n192+ websites\n32 interactive sections\nsupply.madebyoversight.com\n\nOversight Studio on threads\n\nhttps://www.threads.com/share/_6RONW9Pz/",
+      "published_at": "2026-10-10T19:09:52.180790+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1879510357.mp4",
+      "bytes": 1481731
     }
   ]
 }

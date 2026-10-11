@@ -1210,6 +1210,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1876034790,
+      "source_url": "https://www.threads.com/share/BAe_U57Tbu/",
+      "platform": "threads",
+      "status": "published",
+      "reader_document_id": "01m4hw59zqaz26h3b13m25tget",
+      "title": "Someone open-sourced an entire marketing team for Claude Code. 50 skills, one repo, free.",
+      "description": "Someone open-sourced an entire marketing team for Claude Code. 50 skills, one repo, free.\n\nIt's called marketingskills, by Corey Haines. SEO, copywriting, ads, email, conversion, sales and strategy, each as its own skill. One skill, product-marketing, holds your product, audience and positioning, and every other skill reads it first. So you explain your business once.\n\nSave this one so you have the install command.\n\nBrandon Boswell on threads\n\nhttps://www.threads.com/share/BAe_U57Tbu/",
+      "published_at": "2026-10-11T19:10:31.260466+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1876034790.mp4",
+      "bytes": 3311166
     }
   ]
 }

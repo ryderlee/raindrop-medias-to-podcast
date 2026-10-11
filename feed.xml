@@ -1,5 +1,71 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>Raindrop Podcast</title><link>https://ryderlee.github.io/raindrop-medias-to-podcast/feed.xml</link><description>Videos saved to Raindrop, delivered as a podcast feed.</description><language>en</language><item><title>最近發現一個網站，感覺 PM、設計師跟 AI 創作者會逛到忘記時間 XD</title><link>https://www.threads.com/share/_znxW-WBN/</link><guid isPermaLink="false">1882245111</guid><pubDate>Sat, 10 Oct 2026 19:10:01 +0000</pubDate><description>最近發現一個網站，感覺 PM、設計師跟 AI 創作者會逛到忘記時間 XD
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>Raindrop Podcast</title><link>https://ryderlee.github.io/raindrop-medias-to-podcast/feed.xml</link><description>Videos saved to Raindrop, delivered as a podcast feed.</description><language>en</language><item><title>if your website still looks like every other AI website, this might save you</title><link>https://www.threads.com/share/BAaqMotgyK/</link><guid isPermaLink="false">1876020192</guid><pubDate>Sun, 11 Oct 2026 19:10:33 +0000</pubDate><description>if your website still looks like every other AI website, this might save you
+
+https://supply.madebyoversight.com - 192+ website templates
+https://supply.madebyoversight.com/sections - 32 interactive sections
+
+Oversight Studio on threads
+
+https://www.threads.com/share/BAaqMotgyK/</description><itunes:summary>if your website still looks like every other AI website, this might save you
+
+https://supply.madebyoversight.com - 192+ website templates
+https://supply.madebyoversight.com/sections - 32 interactive sections
+
+Oversight Studio on threads
+
+https://www.threads.com/share/BAaqMotgyK/</itunes:summary><enclosure url="https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1876020192.mp4" length="1654373" type="video/mp4" /></item><item><title>多謝MO姐，大死撐日尾場，好大既彩蛋</title><link>https://www.threads.com/share/BAJaHj75Rr/</link><guid isPermaLink="false">1876021409</guid><pubDate>Sun, 11 Oct 2026 19:10:33 +0000</pubDate><description>多謝MO姐，大死撐日尾場，好大既彩蛋
+
+33年前哥哥既歌聲，永留心中❤️❤️
+
+Danise Tan on threads
+
+https://www.threads.com/share/BAJaHj75Rr/</description><itunes:summary>多謝MO姐，大死撐日尾場，好大既彩蛋
+
+33年前哥哥既歌聲，永留心中❤️❤️
+
+Danise Tan on threads
+
+https://www.threads.com/share/BAJaHj75Rr/</itunes:summary><enclosure url="https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1876021409.mp4" length="10118159" type="video/mp4" /></item><item><title>Someone open-sourced an entire marketing team for Claude Code. 50 skills, one repo, free.</title><link>https://www.threads.com/share/BAe_U57Tbu/</link><guid isPermaLink="false">1876034790</guid><pubDate>Sun, 11 Oct 2026 19:10:31 +0000</pubDate><description>Someone open-sourced an entire marketing team for Claude Code. 50 skills, one repo, free.
+
+It's called marketingskills, by Corey Haines. SEO, copywriting, ads, email, conversion, sales and strategy, each as its own skill. One skill, product-marketing, holds your product, audience and positioning, and every other skill reads it first. So you explain your business once.
+
+Save this one so you have the install command.
+
+Brandon Boswell on threads
+
+https://www.threads.com/share/BAe_U57Tbu/</description><itunes:summary>Someone open-sourced an entire marketing team for Claude Code. 50 skills, one repo, free.
+
+It's called marketingskills, by Corey Haines. SEO, copywriting, ads, email, conversion, sales and strategy, each as its own skill. One skill, product-marketing, holds your product, audience and positioning, and every other skill reads it first. So you explain your business once.
+
+Save this one so you have the install command.
+
+Brandon Boswell on threads
+
+https://www.threads.com/share/BAe_U57Tbu/</itunes:summary><enclosure url="https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1876034790.mp4" length="3311166" type="video/mp4" /></item><item><title>做網站做到最後，最容易被拖到「之後再處理」的東西之一，就是 OG 分享圖片。</title><link>https://www.threads.com/share/BATlL4HGOQ/</link><guid isPermaLink="false">1873557191</guid><pubDate>Sun, 11 Oct 2026 19:10:14 +0000</pubDate><description>做網站做到最後，最容易被拖到「之後再處理」的東西之一，就是 OG 分享圖片。
+
+ogimagecn 直接把這件事做成一套 React 元件。
+
+Blog、Product、Event、Quote、Changelog 這些常見版型都有，可以自由組合 Avatar、Badge、Logo、Grid 等元件，最後透過 Satori / next/og 直接產生真正的 PNG。
+
+我比較喜歡的是它走 shadcn 的方式：不是丟給你一個黑盒服務，而是把元件直接加進自己的專案，要改品牌字體、排版、配色都可以自己控制。
+
+連 Agent Skill、MCP 都準備好了，用 Claude Code、Codex 做網站時，也比較容易直接叫 AI 幫你接進去。
+
+極端工程師-Sun on threads
+
+https://www.threads.com/share/BATlL4HGOQ/</description><itunes:summary>做網站做到最後，最容易被拖到「之後再處理」的東西之一，就是 OG 分享圖片。
+
+ogimagecn 直接把這件事做成一套 React 元件。
+
+Blog、Product、Event、Quote、Changelog 這些常見版型都有，可以自由組合 Avatar、Badge、Logo、Grid 等元件，最後透過 Satori / next/og 直接產生真正的 PNG。
+
+我比較喜歡的是它走 shadcn 的方式：不是丟給你一個黑盒服務，而是把元件直接加進自己的專案，要改品牌字體、排版、配色都可以自己控制。
+
+連 Agent Skill、MCP 都準備好了，用 Claude Code、Codex 做網站時，也比較容易直接叫 AI 幫你接進去。
+
+極端工程師-Sun on threads
+
+https://www.threads.com/share/BATlL4HGOQ/</itunes:summary><enclosure url="https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1873557191.mp4" length="1795648" type="video/mp4" /></item><item><title>最近發現一個網站，感覺 PM、設計師跟 AI 創作者會逛到忘記時間 XD</title><link>https://www.threads.com/share/_znxW-WBN/</link><guid isPermaLink="false">1882245111</guid><pubDate>Sat, 10 Oct 2026 19:10:01 +0000</pubDate><description>最近發現一個網站，感覺 PM、設計師跟 AI 創作者會逛到忘記時間 XD
 
 它叫 Prompt Motion。
 

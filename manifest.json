@@ -1163,6 +1163,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1873557191,
+      "source_url": "https://www.threads.com/share/BATlL4HGOQ/",
+      "platform": "threads",
+      "status": "published",
+      "reader_document_id": "01m4hw5sebv1x2k0czm6p6cn6t",
+      "title": "做網站做到最後，最容易被拖到「之後再處理」的東西之一，就是 OG 分享圖片。",
+      "description": "做網站做到最後，最容易被拖到「之後再處理」的東西之一，就是 OG 分享圖片。\n\nogimagecn 直接把這件事做成一套 React 元件。\n\nBlog、Product、Event、Quote、Changelog 這些常見版型都有，可以自由組合 Avatar、Badge、Logo、Grid 等元件，最後透過 Satori / next/og 直接產生真正的 PNG。\n\n我比較喜歡的是它走 shadcn 的方式：不是丟給你一個黑盒服務，而是把元件直接加進自己的專案，要改品牌字體、排版、配色都可以自己控制。\n\n連 Agent Skill、MCP 都準備好了，用 Claude Code、Codex 做網站時，也比較容易直接叫 AI 幫你接進去。\n\n極端工程師-Sun on threads\n\nhttps://www.threads.com/share/BATlL4HGOQ/",
+      "published_at": "2026-10-11T19:10:14.368647+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1873557191.mp4",
+      "bytes": 1795648
     }
   ]
 }

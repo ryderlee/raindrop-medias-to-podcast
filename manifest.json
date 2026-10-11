@@ -1234,6 +1234,18 @@
       "published_at": "2026-10-11T19:10:33.094221+00:00",
       "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1876021409.mp4",
       "bytes": 10118159
+    },
+    {
+      "raindrop_id": 1876020192,
+      "source_url": "https://www.threads.com/share/BAaqMotgyK/",
+      "platform": "threads",
+      "status": "published",
+      "reader_document_id": "01m4hw5gat5bskz30c6dy1dc8p",
+      "title": "if your website still looks like every other AI website, this might save you",
+      "description": "if your website still looks like every other AI website, this might save you\n\nhttps://supply.madebyoversight.com - 192+ website templates\nhttps://supply.madebyoversight.com/sections - 32 interactive sections\n\nOversight Studio on threads\n\nhttps://www.threads.com/share/BAaqMotgyK/",
+      "published_at": "2026-10-11T19:10:33.247131+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1876020192.mp4",
+      "bytes": 1654373
     }
   ]
 }

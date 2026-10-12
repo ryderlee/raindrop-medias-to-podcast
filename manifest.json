@@ -1246,6 +1246,18 @@
       "published_at": "2026-10-11T19:10:33.247131+00:00",
       "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1876020192.mp4",
       "bytes": 1654373
+    },
+    {
+      "raindrop_id": 1872631857,
+      "source_url": "https://www.threads.com/share/BAcTYIC2Wu/",
+      "platform": "threads",
+      "status": "published",
+      "reader_document_id": "01m4hw649mr6dhbz31ahcav4pk",
+      "title": "built ur entire app with AI?",
+      "description": "built ur entire app with AI?\n\ngreat :)\n\nnow make it look like you didn't ↓\n\nJaimin Kataria on threads\n\nhttps://www.threads.com/share/BAcTYIC2Wu/",
+      "published_at": "2026-10-12T19:10:37.395063+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1872631857.mp4",
+      "bytes": 952778
     }
   ]
 }

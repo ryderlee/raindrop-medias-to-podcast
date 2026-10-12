@@ -1284,6 +1284,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1870024864,
+      "source_url": "https://www.threads.com/share/BAWMrJr84J/",
+      "platform": "threads",
+      "status": "published",
+      "reader_document_id": "01m4hw6caf06x2b913s82tmwfe",
+      "title": "｜",
+      "description": "｜\n​如何成為誘惑大師\n解碼人性慾望，掌握人際影響力\n《權力的48條法則》\n千萬暢銷作家 Robert Greene\n\n這影片內容對我最有幫助的十個地方：\n\n1.​我們內心深處，其實會被黑暗特質吸引。帶點叛逆、不完全順從世俗框架的人，總散發著一種獨特的迷人魅力。\n\n2.​慾望是會傳染的。當人們發現你已經被許多人肯定與喜愛時，他們也會不自覺地對你產生興趣。\n\n3.感情裡最讓人上癮的，是不確定性。期待與未知所激發的多巴胺，總比安穩確定的結果更令人深陷其中。\n\n4.​坦然擁抱過去的傷痕。那些願意展露些微破碎感並勇敢接受的人，往往比完美無瑕的人更值得信任。\n\n5.​試著控制自己的表達慾。話太多、總是滔滔不絕，往往只會暴露出內心的焦慮與不安。\n\nme4.0我要優化我自己 on threads\n\nhttps://www.threads.com/share/BAWMrJr84J/",
+      "published_at": "2026-10-12T19:10:44.164625+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1870024864.mp4",
+      "bytes": 2844985
     }
   ]
 }

@@ -1265,6 +1265,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1870676722,
+      "source_url": "https://www.threads.com/share/BAf40W_7NI/",
+      "platform": "threads",
+      "status": "published",
+      "reader_document_id": "01m4hw67ssqyx58c671rf04d8b",
+      "title": "BEGINNER vs ADVANCED ARM GROWTH EXERCISES PART 3…🤡✅",
+      "description": "BEGINNER vs ADVANCED ARM GROWTH EXERCISES PART 3…🤡✅\n\nFollow @joshuaktl_ for more workout tips 🦾❤️\n\n.\n.\n. \n#fitness #training #gym #muscle #arms\n\nJoshua Kaoutal | Online Fitness Coach 🏆 on threads\n\nhttps://www.threads.com/share/BAf40W_7NI/",
+      "published_at": "2026-10-12T19:10:42.773999+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1870676722.mp4",
+      "bytes": 1800111
     }
   ]
 }

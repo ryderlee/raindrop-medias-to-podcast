@@ -1316,6 +1316,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1870024492,
+      "source_url": "https://www.threads.com/share/BAU3gJWYOl/",
+      "platform": "threads",
+      "status": "published",
+      "reader_document_id": "01m4hw6f5pnj78fvcac7vh03es",
+      "title": "20 UI resources every AI Design Engineer should have bookmarked.",
+      "description": "20 UI resources every AI Design Engineer should have bookmarked.\n\nSave this 🔖\n\n1. GetLayers (getlayers.ai) — 300+ animated 3D scenes and full site prompts, each one shipping with the complete build prompt behind it.\n\n2. Shadcn/ui (ui.shadcn.com) — the gold standard for copy-paste React\n\n3. Aceternity UI (ui.aceternity.com) — 200+ animated React/Tailwind\n\n4. Magic UI (magicui.design) — drop-in animated components\n\n5. Motion Primitives (motion-primitives.com) — advanced UI interactions\n\n6.\n\nDzianis Kravchu on threads\n\nhttps://www.threads.com/share/BAU3gJWYOl/",
+      "published_at": "2026-10-12T19:10:50.332643+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1870024492.mp4",
+      "bytes": 2335831
     }
   ]
 }

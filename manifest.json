@@ -1296,6 +1296,19 @@
       "published_at": "2026-10-12T19:10:44.164625+00:00",
       "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1870024864.mp4",
       "bytes": 2844985
+    },
+    {
+      "raindrop_id": 1885827484,
+      "source_url": "https://www.facebook.com/share/v/19xuxZQBVL/?mibextid=wwXIfr",
+      "platform": "facebook",
+      "status": "published",
+      "reader_document_id": "01m4ptyan4g55a02afh78nhbc9",
+      "title": "Grab your basketball and Follow Along All you need is a ball and follow my lead 😎🔥",
+      "duration_seconds": 188,
+      "description": "Kyle Travis on facebook · 3:08\n\nhttps://www.facebook.com/share/v/19xuxZQBVL/?mibextid=wwXIfr",
+      "published_at": "2026-10-12T19:10:45.255046+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1885827484.mp4",
+      "bytes": 43921933
     }
   ]
 }

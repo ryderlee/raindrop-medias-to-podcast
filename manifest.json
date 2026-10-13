@@ -1366,6 +1366,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1866442863,
+      "source_url": "https://www.threads.com/share/_nWssnSx7/",
+      "platform": "threads",
+      "status": "published",
+      "reader_document_id": "01m4hw70s6vzrjq6p96rhkzmpf",
+      "title": "｜",
+      "description": "｜\n現在唯一最重要的終極技能\n就是 AI 永遠偷不走的「那樣東西」！\n\n《創造力的修行》Rick Rubin\n\n這影片內容對我最有幫助的十個地方：\n\n1.​不要拿自己和別人比較。這世界沒有誰比誰更有創造力，你只需要努力成為「最好版本的自己」，那個版本，無人能取代。\n\n2.​學校教我們守規矩，體制要求我們聽話。那些規則從來無法讓我們自由。找回創造力的第一步，就是勇敢掙脫這些控制。\n\nme4.0我要優化我自己 on threads\n\nhttps://www.threads.com/share/_nWssnSx7/",
+      "published_at": "2026-10-13T19:10:34.142246+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1866442863.mp4",
+      "bytes": 3081028
     }
   ]
 }

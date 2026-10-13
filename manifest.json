@@ -1420,6 +1420,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1865669486,
+      "source_url": "https://www.threads.com/share/BAUhQjKjX8/",
+      "platform": "threads",
+      "status": "published",
+      "reader_document_id": "01m4hw74g46m5v5yebyt7e64vd",
+      "title": "Shoulder day 🥵🔥 6 variations ✅ 3 set each 💪🏿 save for later ✅ #coach_bigyouth #gymtips #gymworkout #shoulderworkout #shoulders",
+      "description": "Coach Big YUT on threads\n\nhttps://www.threads.com/share/BAUhQjKjX8/",
+      "published_at": "2026-10-13T19:11:27.135869+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1865669486.mp4",
+      "bytes": 6056497
     }
   ]
 }

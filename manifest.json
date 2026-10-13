@@ -1347,6 +1347,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1867848834,
+      "source_url": "https://www.threads.com/share/BAWPSUUG33/",
+      "platform": "threads",
+      "status": "published",
+      "reader_document_id": "01m4hw6n7e85md5m4psbgfn8mc",
+      "title": "红杉资本合伙人 Pat Grady 用 15 分钟，讲了他对这一轮 AI 变化的判断。",
+      "description": "Weng on threads\n\nhttps://www.threads.com/share/BAWPSUUG33/",
+      "published_at": "2026-10-13T19:10:32.315575+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1867848834.mp4",
+      "bytes": 7150782
     }
   ]
 }

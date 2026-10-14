@@ -1446,6 +1446,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1863080540,
+      "source_url": "https://www.threads.com/share/BAUKUWl_qK/",
+      "platform": "threads",
+      "status": "published",
+      "reader_document_id": "01m4hw7r0nh4cpkrwwcaqx8729",
+      "title": "Austin ｜Claude 認證 AI 架構師 (@ai_cpocoder) on Threads",
+      "description": "免費幫脆友做網站 Day 1\n\n這是第一個填表的脆友，想要做一個展示品網站 \n教大家從「技術架構」開始寫。\n\n第一段可以這樣下：\n\n「你是創意前端工程師。使用 HTML、CSS、JavaScript 製作單一 index.html。採用 Three.js r160，透過 CDN importmap 載入，GLTFLoader 使用相同版本，不使用框架或打包工具。」\n\n接著準備下載或生成的青銅馬的 3D 生成圖，提供檔案路徑或網址，要求載入後置中，最大尺寸縮放至 3.5 個場景單位。\n\n我會先寫清楚使用哪些技術、素材從哪裡來，再進入畫面細節。\n\nAustin ｜Claude 認證 AI 架構師 on threads\n\nhttps://www.threads.com/share/BAUKUWl_qK/",
+      "published_at": "2026-10-14T19:11:06.515515+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1863080540.mp4",
+      "bytes": 1560142
     }
   ]
 }

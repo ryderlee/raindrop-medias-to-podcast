@@ -1472,6 +1472,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1864596965,
+      "source_url": "https://www.threads.com/share/BAOxaIK7vN/",
+      "platform": "threads",
+      "status": "published",
+      "reader_document_id": "01m4hw7bk1zyb89eeqaf0qsrwh",
+      "title": "more goated ui design / micro interaction resources:",
+      "description": "more goated ui design / micro interaction resources:\n\nBencho (bencho.dev)\nMagic UI (magicui.design)\nReact Bits (reactbits.dev)\nAceternity UI (ui.aceternity.com)\n\nBeen using resources like these while building Pulsezy.app. Some seriously good stuff here.\n\nrakesh vanam on threads\n\nhttps://www.threads.com/share/BAOxaIK7vN/",
+      "published_at": "2026-10-14T19:11:10.866809+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1864596965.mp4",
+      "bytes": 1194332
     }
   ]
 }

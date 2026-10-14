@@ -1498,6 +1498,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1863314109,
+      "source_url": "https://www.threads.com/share/_6ZDYdyme/",
+      "platform": "threads",
+      "status": "published",
+      "reader_document_id": "01m4hw7nvm3dfy723j9193endh",
+      "title": "Dzianis Kravchu (@thedzianis) on Threads",
+      "description": "🎯 the design inspo dumps I raid when my taste runs dry 👇\n\n1. getlayers.ai — the prompt library pros use to ship $10k-looking sites. 300+ 3D scenes, 1000+ gradients, backgrounds, motion — all copy-paste.\n2. mobbin.com — 621,500+ real app screens to study.\n3. siteinspire.com — 2,392+ hand-picked agency sites.\n4. supahero.io — landing page examples worth swiping.\n5. collectui.com — a deep UI design collection.\n\nDzianis Kravchu on threads\n\nhttps://www.threads.com/share/_6ZDYdyme/",
+      "published_at": "2026-10-14T19:11:21.849360+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1863314109.mp4",
+      "bytes": 1838826
     }
   ]
 }

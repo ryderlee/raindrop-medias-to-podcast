@@ -1517,6 +1517,18 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1860121770,
+      "source_url": "https://www.threads.com/share/BBiRvvqLtq/",
+      "platform": "threads",
+      "status": "published",
+      "reader_document_id": "01m4hw825vktn8qgqy0991zb6r",
+      "title": "Razvan Fotia (@razvanfotia) on Threads",
+      "description": "This is Arvid Kahl.\n\nHe built a business for a market of just 50,000 people that made him millions.\n\nNo investors, no employees, sold in 2 years.\n\nOn paper, it shouldn't have worked.\n\nHere's the clever way he did it:\n\nRazvan Fotia on threads\n\nhttps://www.threads.com/share/BBiRvvqLtq/",
+      "published_at": "2026-10-15T19:10:20.204471+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1860121770.mp4",
+      "bytes": 16154766
     }
   ]
 }

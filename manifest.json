@@ -1529,6 +1529,18 @@
       "published_at": "2026-10-15T19:10:20.204471+00:00",
       "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1860121770.mp4",
       "bytes": 16154766
+    },
+    {
+      "raindrop_id": 1860948439,
+      "source_url": "https://www.threads.com/share/BATINQU5e6/",
+      "platform": "threads",
+      "status": "published",
+      "reader_document_id": "01m4hw7xzqyyb0pz7y43ny0m5j",
+      "title": "Stijn Noorman (@stijnnoorman) on Threads",
+      "description": "How to get rich without getting lucky (Naval's 10 best ideas):\n\nStijn Noorman on threads\n\nhttps://www.threads.com/share/BATINQU5e6/",
+      "published_at": "2026-10-15T19:10:24.434755+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1860948439.mp4",
+      "bytes": 4834946
     }
   ]
 }

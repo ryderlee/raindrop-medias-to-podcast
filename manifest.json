@@ -1675,6 +1675,19 @@
       "published_at": "2026-10-16T19:10:13.272251+00:00",
       "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1891332545.mp4",
       "bytes": 3091855
+    },
+    {
+      "raindrop_id": 1891332564,
+      "source_url": "https://www.facebook.com/share/r/1C1QBfAeSR/",
+      "platform": "facebook",
+      "status": "published",
+      "reader_document_id": "01m51xnkyndz1s9wzf37vgv5yk",
+      "title": "Facebook",
+      "duration_seconds": 30,
+      "description": "脚步顺了，过人自然丝滑！\n\n#fblifestyle #篮球荣耀 #GloryofBasketball #篮球训练\n\n篮球荣耀 Glory of Basketball on facebook · 0:30\n\nhttps://www.facebook.com/share/r/1C1QBfAeSR/",
+      "published_at": "2026-10-16T19:10:13.433045+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1891332564.mp4",
+      "bytes": 673459
     }
   ]
 }

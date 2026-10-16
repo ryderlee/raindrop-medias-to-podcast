@@ -1701,6 +1701,19 @@
       "published_at": "2026-10-16T19:10:14.607047+00:00",
       "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1891332543.mp4",
       "bytes": 7173765
+    },
+    {
+      "raindrop_id": 1891332571,
+      "source_url": "https://www.facebook.com/share/r/18p5JPYWXq/",
+      "platform": "facebook",
+      "status": "published",
+      "reader_document_id": "01m51xnhq5khgqv5jerp7k8m6n",
+      "title": "Facebook",
+      "duration_seconds": 14,
+      "description": "Lose that belly \n\nP.S. Wanna get lean & ripped? Click link in bio to apply!\n\nVlad Matvey on facebook · 0:14\n\nhttps://www.facebook.com/share/r/18p5JPYWXq/",
+      "published_at": "2026-10-16T19:10:14.579075+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1891332571.mp4",
+      "bytes": 1536902
     }
   ]
 }

@@ -1688,6 +1688,19 @@
       "published_at": "2026-10-16T19:10:13.433045+00:00",
       "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1891332564.mp4",
       "bytes": 673459
+    },
+    {
+      "raindrop_id": 1891332543,
+      "source_url": "https://www.facebook.com/share/r/16Xvo2NeyV/",
+      "platform": "facebook",
+      "status": "published",
+      "reader_document_id": "01m51xnsz1m9aqgq8rbgm2yp7f",
+      "title": "Trae Ball training app waitlist promo (basketball training).",
+      "duration_seconds": 44,
+      "description": "Comment “waitlist” to join the waitlist for my new training app!!💯\n\nTrae Ball on facebook · 0:44\n\nhttps://www.facebook.com/share/r/16Xvo2NeyV/",
+      "published_at": "2026-10-16T19:10:14.607047+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1891332543.mp4",
+      "bytes": 7173765
     }
   ]
 }

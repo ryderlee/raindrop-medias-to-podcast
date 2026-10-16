@@ -1597,6 +1597,19 @@
       "platform": "threads",
       "status": "skipped",
       "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1891332576,
+      "source_url": "https://www.facebook.com/share/r/1BZv1cEjjD/",
+      "platform": "facebook",
+      "status": "published",
+      "reader_document_id": "01m51xnfedttfzzcgx9hkejynw",
+      "title": "18K views · 177 reactions | 高效过人脚步 找条线去试试 | 篮球梦",
+      "duration_seconds": 56,
+      "description": "高效过人脚步 找条线去试试 #篮球梦 #basketball🏀 #Malaysia #篮球 #篮球教学\n\n篮球梦 on facebook · 0:56\n\nhttps://www.facebook.com/share/r/1BZv1cEjjD/",
+      "published_at": "2026-10-16T19:10:05.160097+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1891332576.mp4",
+      "bytes": 1912079
     }
   ]
 }

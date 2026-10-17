@@ -1734,6 +1734,19 @@
       "platform": "youtube",
       "status": "skipped",
       "reason": "login_required"
+    },
+    {
+      "raindrop_id": 1891332521,
+      "source_url": "https://www.facebook.com/share/r/1Afg3pdtcj/",
+      "platform": "facebook",
+      "status": "published",
+      "reader_document_id": "01m51xp7jf669f587s7jzavzat",
+      "title": "309K views · 97K reactions | 3 DRILLS TO JUMP HIGHER | Mark Lester Montanes",
+      "duration_seconds": 22,
+      "description": "3 DRILLS TO JUMP HIGHER   #airmontanes\n\nMark Lester Montanes on facebook · 0:22\n\nhttps://www.facebook.com/share/r/1Afg3pdtcj/",
+      "published_at": "2026-10-17T19:09:00.356747+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1891332521.mp4",
+      "bytes": 632279
     }
   ]
 }

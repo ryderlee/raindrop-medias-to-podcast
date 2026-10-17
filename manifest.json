@@ -1760,6 +1760,19 @@
       "published_at": "2026-10-17T19:09:03.843993+00:00",
       "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1891332534.mp4",
       "bytes": 4025635
+    },
+    {
+      "raindrop_id": 1891332524,
+      "source_url": "https://www.facebook.com/share/r/18E31D5NSc/",
+      "platform": "facebook",
+      "status": "published",
+      "reader_document_id": "01m51xp597j7nzghnrc5734e08",
+      "title": "Facebook",
+      "duration_seconds": 18,
+      "description": "Most real movement happens one leg at a time.\nThis is how you build strength and explosiveness that actually shows up in your sport\n\nMack Little on facebook · 0:18\n\nhttps://www.facebook.com/share/r/18E31D5NSc/",
+      "published_at": "2026-10-17T19:09:03.945963+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1891332524.mp4",
+      "bytes": 12169243
     }
   ]
 }

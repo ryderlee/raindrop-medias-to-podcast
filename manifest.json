@@ -1955,6 +1955,18 @@
       "platform": "youtube",
       "status": "skipped",
       "reason": "login_required"
+    },
+    {
+      "raindrop_id": 1891332435,
+      "source_url": "https://www.facebook.com/reel/930424171461363",
+      "platform": "facebook",
+      "status": "published",
+      "title": "on Reels |",
+      "duration_seconds": 34,
+      "description": "“去做你该做的事，去做而不是去说”\n\n#运球训练 #基本训练\n\njerseylibrary.my on facebook · 0:34\n\nhttps://www.facebook.com/reel/930424171461363",
+      "published_at": "2026-10-18T19:09:53.169260+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1891332435.mp4",
+      "bytes": 6298515
     }
   ]
 }

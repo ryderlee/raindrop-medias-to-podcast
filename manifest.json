@@ -1864,6 +1864,97 @@
       "published_at": "2026-10-17T19:09:17.630485+00:00",
       "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1891332542.mp4",
       "bytes": 4707856
+    },
+    {
+      "raindrop_id": 1891332518,
+      "source_url": "https://www.facebook.com/share/r/1E8mHEsR85/",
+      "platform": "facebook",
+      "status": "skipped",
+      "reason": "extractor_error"
+    },
+    {
+      "raindrop_id": 1891332492,
+      "source_url": "https://www.facebook.com/share/r/hqZN4M4dAtkRCbtP/",
+      "platform": "facebook",
+      "status": "skipped",
+      "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1891332490,
+      "source_url": "https://www.facebook.com/share/r/3Lfo5rFeoKWzeU22/",
+      "platform": "facebook",
+      "status": "skipped",
+      "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1891332485,
+      "source_url": "https://www.facebook.com/share/r/GhZQkedBrDhPyPgm/",
+      "platform": "facebook",
+      "status": "skipped",
+      "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1891332482,
+      "source_url": "https://www.facebook.com/share/r/pCZyaz1Tj9EEduPM/",
+      "platform": "facebook",
+      "status": "skipped",
+      "reason": "no_video"
+    },
+    {
+      "raindrop_id": 1891332479,
+      "source_url": "https://www.youtube.com/watch?v=ZFkdXiM57Vg",
+      "platform": "youtube",
+      "status": "skipped",
+      "reason": "login_required"
+    },
+    {
+      "raindrop_id": 1891332477,
+      "source_url": "https://www.youtube.com/watch?v=Dk65Bq24OyQ",
+      "platform": "youtube",
+      "status": "skipped",
+      "reason": "login_required"
+    },
+    {
+      "raindrop_id": 1891332440,
+      "source_url": "https://www.youtube.com/watch?v=lDrebo7qweY",
+      "platform": "youtube",
+      "status": "skipped",
+      "reason": "login_required"
+    },
+    {
+      "raindrop_id": 1891332437,
+      "source_url": "https://www.youtube.com/watch?v=lQvDAsBZLUY",
+      "platform": "youtube",
+      "status": "skipped",
+      "reason": "login_required"
+    },
+    {
+      "raindrop_id": 1891332434,
+      "source_url": "https://www.youtube.com/watch?v=9kfY8HqD72U",
+      "platform": "youtube",
+      "status": "skipped",
+      "reason": "login_required"
+    },
+    {
+      "raindrop_id": 1891332432,
+      "source_url": "https://www.youtube.com/watch?v=IY-6sx8Kfb4",
+      "platform": "youtube",
+      "status": "skipped",
+      "reason": "login_required"
+    },
+    {
+      "raindrop_id": 1891332429,
+      "source_url": "https://www.youtube.com/watch?v=3pqee47avhA",
+      "platform": "youtube",
+      "status": "skipped",
+      "reason": "login_required"
+    },
+    {
+      "raindrop_id": 1891332328,
+      "source_url": "https://www.youtube.com/watch?v=OeNfI5rjeDI",
+      "platform": "youtube",
+      "status": "skipped",
+      "reason": "login_required"
     }
   ]
 }

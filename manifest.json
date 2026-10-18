@@ -2031,6 +2031,19 @@
       "published_at": "2026-10-18T19:09:57.015840+00:00",
       "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1891332510.mp4",
       "bytes": 13664188
+    },
+    {
+      "raindrop_id": 1891332499,
+      "source_url": "https://www.facebook.com/share/r/1DCkd6EU9F/",
+      "platform": "facebook",
+      "status": "published",
+      "reader_document_id": "01m51xper3jfk6n6t3rf0ghrg5",
+      "title": "At home basketball workout 🏀📈 #basketball #workout",
+      "duration_seconds": 76,
+      "description": "Ruben Zerbib on facebook · 1:16\n\nhttps://www.facebook.com/share/r/1DCkd6EU9F/",
+      "published_at": "2026-10-18T19:09:57.181799+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1891332499.mp4",
+      "bytes": 10590510
     }
   ]
 }

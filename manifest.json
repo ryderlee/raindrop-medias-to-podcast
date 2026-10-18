@@ -2005,6 +2005,19 @@
       "published_at": "2026-10-18T19:09:57.017198+00:00",
       "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1891332519.mp4",
       "bytes": 3965412
+    },
+    {
+      "raindrop_id": 1891332501,
+      "source_url": "https://www.facebook.com/share/r/1H3LY1LNzG/",
+      "platform": "facebook",
+      "status": "published",
+      "reader_document_id": "01m51xpdtvxytd3j28v0ptmrkj",
+      "title": "Facebook",
+      "duration_seconds": 19,
+      "description": "Start dunking with this workout 🚀\n\n #basketball #plyometrics\n\nKogonFit on facebook · 0:19\n\nhttps://www.facebook.com/share/r/1H3LY1LNzG/",
+      "published_at": "2026-10-18T19:09:58.508489+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1891332501.mp4",
+      "bytes": 6478040
     }
   ]
 }

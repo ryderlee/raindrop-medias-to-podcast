@@ -2082,6 +2082,18 @@
       "published_at": "2026-10-20T19:10:46.012730+00:00",
       "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1894859921.mp4",
       "bytes": 3187590
+    },
+    {
+      "raindrop_id": 1914282369,
+      "source_url": "https://www.facebook.com/share/r/1MadRGrsU1/?mibextid=wwXIfr",
+      "platform": "facebook",
+      "status": "published",
+      "title": "Korean Elite Football Players Training at FPT in Ilsan",
+      "duration_seconds": 28,
+      "description": "Korean Elite Football Player ⚡️🇰🇷\n\n📍in FPT\n\n구도현 on facebook · 0:28\n\nhttps://www.facebook.com/share/r/1MadRGrsU1/?mibextid=wwXIfr",
+      "published_at": "2026-11-05T23:57:17.062461+00:00",
+      "asset_url": "https://github.com/ryderlee/raindrop-medias-to-podcast/releases/download/episodes/1914282369.mp4",
+      "bytes": 8164491
     }
   ]
 }
